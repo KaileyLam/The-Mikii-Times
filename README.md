@@ -1,12 +1,16 @@
 # The Mikii Times
-Displaying an article on The Mikii Times news platform (original article from Vietcetera)
+ Article display interface of The Mikii Times news platform (original article from Vietcetera)
 
 ## Technology
 - HTML
 - CSS
 
 ## Features
-Navigation bar, Header, Footer, Article
+- Navigation bar
+- Right-sided Table of Content
+- Header
+- Article
+- Footer
 
 ## Setup
 1. Clone this repo to your computer
