@@ -13,5 +13,5 @@ Navigation bar, Header, Footer, Article
 2. Open with live server to view it
 
 ## Inspirations 
-- Vietcetera - What Does The 13th-Month Bonus Mean To You?: https://vietcetera.com/en/what-does-the-13th-month-bonus-mean-to-you
+- Original article's credit goes to Vietcetera - [What Does The 13th-Month Bonus Mean To You?]( https://vietcetera.com/en/what-does-the-13th-month-bonus-mean-to-you)
 - The New York Times
