@@ -1,6 +1,5 @@
 # The Mikii Times
-Link to website: https://themikiitimes.netlify.app/
-Online article interface of The Mikii Times news platform 
+Online article interface of The Mikii Times news platform (https://themikiitimes.netlify.app/)
 
 ## Technology
 - HTML
